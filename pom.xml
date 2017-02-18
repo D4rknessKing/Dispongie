@@ -70,8 +70,8 @@
                         <configuration>
                             <relocations>
                                 <relocation>
-                                    <pattern>org.apache.commons.lang3</pattern>
-                                    <shadedPattern>shaded.lang3</shadedPattern>
+                                    <pattern>org.apache</pattern>
+                                    <shadedPattern>shaded.apache</shadedPattern>
                                 </relocation>
                             </relocations>
                         </configuration>
